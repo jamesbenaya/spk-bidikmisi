@@ -84,6 +84,11 @@ Aplikasi terbuka di `http://localhost:8501`.
 └── README.md
 ```
 
+## Anggota kelompok
+
 | Nama | NPM |
 |---|---|
-| (isi) | (isi) |
+| Septia Dea Rosita | 23082010007 |
+| Lisa Dwi Anggraini | 23082010009 |
+| Fiona Christina Subianto | 23082010038 |
+| James Petra Benaya Prawira N | 23082010081 |
